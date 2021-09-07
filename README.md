@@ -1,6 +1,5 @@
 Hi, I’m Yung-Shin (Martin) Chien.
-My portfolio can be found here:
-https://mchall92.github.io/
+My portfolio can be found [here](https://mchall92.github.io/).
 
 🌈
 <!---
